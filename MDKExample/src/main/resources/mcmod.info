@@ -1,0 +1,16 @@
+[
+{
+  "modid": "makiblcarmod",
+  "name": "Makibl's Car Mod",
+  "description": "A mod that Makibl made that added cars.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rdrpenguin","Makibl"],
+  "credits": "Makibl for the awesome idea, and Rdrpenguin for advanced coding help",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
